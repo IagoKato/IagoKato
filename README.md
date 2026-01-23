@@ -43,11 +43,26 @@
 </p>
 
 ---
-
-## 📫 Vamos conversar?
+## 📫 Meus Contatos:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iago-kato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Iago%20Kato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:iagokato@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="mailto:iagokato0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="tel:+5541984957338">
+    <img src="https://img.shields.io/badge/Telefone-+55%2041%2098495--7338-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
