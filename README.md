@@ -7,14 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iago-kato/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://katolab.com.br" target="_blank" style="margin-left: 10px;">
-    <img src="https://srv1843-files.hstgr.io/5d58a70494cea70b/files/public_html/assets/img/logo.png" alt="KatoLab" height="28"style="vertical-align: middle;"/>
+  <a href="https://katolab.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/KatoLab-111827?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAB..." />
   </a>
 </p>
-
 
 ---
 
